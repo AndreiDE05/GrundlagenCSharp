@@ -14,7 +14,7 @@ namespace Kontrollstrukturen
 
             if (1 > 2) // testet einen ausdruck ob er TRUE oder FALSE ist
             {
-                // wenn 1 grösser ist als 2
+                // wenn 1 grösser ist als 3
             }
 
             if (1 < 2)

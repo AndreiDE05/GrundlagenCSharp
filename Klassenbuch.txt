@@ -1,0 +1,11 @@
+02.11.2020
+
+1 	Einrichten der Entwicklungsumgebung 	Kadoch, Lutz
+2 	Aufbau von Visual Studio 2019 (Menüführung, Fenster, Projekte) 	Kadoch, Lutz
+3 	Aufbau von Visual Studio 2019 (Menüführung, Fenster, Projekte) 	Kadoch, Lutz
+4 	Wiederholung Kontrollstrukturen (Bedingungen) 	Kadoch, Lutz
+5 	Wiederholung Schleifen (For, Foreach) 	Kadoch, Lutz
+6 	Wiederholung Schleifen (For, Foreach) 	Kadoch, Lutz
+7 	Unterschiede C# und C++ bei schleifen und bedingungen 	Kadoch, Lutz
+8 	Exkurs Pointerarithmetik in C 	Kadoch, Lutz
+9 	Aufbau von Caches und Ram 	Kadoch, Lutz 
